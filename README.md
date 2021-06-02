@@ -18,7 +18,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Photo%209-11-15%2C%206%2006%2050%20PM.jpg)
+![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/photoresized.jpg)
 
 <!-- Add your details -->
 
