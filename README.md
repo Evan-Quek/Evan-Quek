@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Evan-Quek
-- 👀 I’m interested in everything.
-- 🌱 I’m currently learning anything.
-- 💞️ I’m looking to collaborate on everything with everyone.
-- 📫 You can reach me anywhere.
-
 <!-- CONTACT Section Starts -->
 ### CONTACT
 
@@ -11,7 +5,6 @@
 ✉️: evanquek.wc@gmail.com
 &nbsp;&nbsp; 📲 +65 9170-4688
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/evan-quek-0201a556/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
