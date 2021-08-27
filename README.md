@@ -60,18 +60,18 @@ Diploma in Marketing 2005 - 2008
 <!-- Add your details -->
 
 #### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Panamax_rf.PNG)
 
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+In this project, a port operator is facing port congestion due to lack of visibility of incoming vessels' dwell time. Random Forest classifier was applied to predict vessels which are more likely to have delays in dwelling to assist client in resource planning for better port performance, thus reducing port congestions by improving vessels turnaround time.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+[Click here to view codebase](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/codes/Tenith_working.ipynb)
 
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+#### Time-Based Regression projects
+![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/teu_regression.PNG)
 
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+In order to further enhance the visibility to ease port congestion, a Lasso regression model was used to predict incoming containers. If the number of containers fall short of the predicted value, it will cause congestions on the following week when the delayed containers reaches the port. Pre-emptive measures such as allocating more cranes and manpower can be done if such situation develops.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view codebase](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/codes/Tenith_working.ipynb)
 
 <!-- PROJECTS Section Ends -->
 
