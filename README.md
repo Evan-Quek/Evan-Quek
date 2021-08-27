@@ -82,7 +82,8 @@ Regression is a supervised learning technique which helps in finding the correla
 Machine Learning by Columbia University
 
 ##### Achievements
-BCG RISE Distinction Churn Prediction Project (https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7?source=linked_in_profile) <br>
+BCG RISE Distinction Churn Prediction Project <br>
+(https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7?source=linked_in_profile) <br>
 BCG RISE TOP2 PowerBI Project <br>
 BCG RISE Distinction Hackathon Project <br>
 <!-- FEATURED Section Ends -->
