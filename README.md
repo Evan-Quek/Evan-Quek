@@ -64,14 +64,14 @@ Diploma in Marketing 2005 - 2008
 
 In this project, a port operator is facing port congestion due to lack of visibility of incoming vessels' dwell time. Random Forest classifier was applied to predict vessels which are more likely to have delays in dwelling to assist client in resource planning for better port performance, thus reducing port congestions by improving vessels turnaround time.
 
-[Click here to view codebase](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/codes/Tenith_working.ipynb)
+[Click here to view codebase](https://github.com/Evan-Quek/Evan-Quek/blob/main/codes/Tenith_working.ipynb)
 
 #### Time-Based Regression projects
 ![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/teu_regression.PNG)
 
 In order to further enhance the visibility to ease port congestion, a Lasso regression model was used to predict incoming containers. If the number of containers fall short of the predicted value, it will cause congestions on the following week when the delayed containers reaches the port. Pre-emptive measures such as allocating more cranes and manpower can be done if such situation develops.
 
-[Click here to view codebase](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/codes/Tenith_working.ipynb)
+[Click here to view codebase](https://github.com/Evan-Quek/Evan-Quek/blob/main/codes/Tenith_working.ipynb)
 
 <!-- PROJECTS Section Ends -->
 
@@ -79,7 +79,7 @@ In order to further enhance the visibility to ease port congestion, a Lasso regr
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-Machine Learning by Columbia University
+TBC
 
 ##### Achievements
 BCG RISE Distinction Churn Prediction Project <br>
