@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Gradto.jpg)
+![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Gradto_resized.png)
 
 <!-- Add your details -->
 
@@ -82,9 +82,9 @@ Regression is a supervised learning technique which helps in finding the correla
 Machine Learning by Columbia University
 
 ##### Achievements
-BCG RISE Distinction Churn Prediction Project
-BCG RISE TOP2 PowerBI Project
-BCG RISE Distinction Hackathon Project
+BCG RISE Distinction Churn Prediction Project <br>
+BCG RISE TOP2 PowerBI Project <br>
+BCG RISE Distinction Hackathon Project <br>
 <!-- FEATURED Section Ends -->
 
 
