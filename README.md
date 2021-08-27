@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/photoresized.jpg)
+![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Gradto.jpg)
 
 <!-- Add your details -->
 
