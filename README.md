@@ -82,14 +82,14 @@ In order to further enhance the visibility to ease port congestion, a Lasso regr
 TBC
 
 ##### Achievements
-BCG RISE Distinction Churn Prediction Project <br>
-(https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7?source=linked_in_profile) <br>
+[BCG RISE Distinction Churn Prediction Project] <br>
+![alt text](https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7?source=linked_in_profile) <br>
 
-BCG RISE TOP2 PowerBI Project <br>
-(https://www.credly.com/badges/f1462f2f-5c8e-45f9-a18d-471f9168d022?source=linked_in_profile) <br>
+[BCG RISE TOP2 PowerBI Project] <br>
+![alt text](https://www.credly.com/badges/f1462f2f-5c8e-45f9-a18d-471f9168d022?source=linked_in_profile) <br>
 
-BCG RISE Distinction Hackathon Project <br>
-(https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1?source=linked_in_profile) <br>
+[BCG RISE Distinction Hackathon Project] <br>
+![alt text](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1?source=linked_in_profile) <br>
 <!-- FEATURED Section Ends -->
 
 
