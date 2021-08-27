@@ -54,8 +54,8 @@ Diploma in Marketing 2005 - 2008
 ### PROJECTS
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Time-Based Regression projects](#regression-based-projects) <br>
+[Classification based project](#classification-based-project) <br>
+[Time-Based Regression project](#time-based-regression-project) <br>
 [PowerBI Dashboard](#powerbi-dashboard) <br>
 
 <!-- Add your details -->
