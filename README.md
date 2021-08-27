@@ -17,6 +17,8 @@
 
 I am Evan Quek, a technical analyst trader with ~5 years of progressive experience in futures markets. I am involved in trading system development, analysis of trading results, and actual trade execution in PATS and CQG platforms.
 
+I am fresh out from BCG RISE Business and Data Analytics program. The course ignited my internal passion for python coding and I am looking to bring forward this new skill for the greater good.
+
 
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
