@@ -88,7 +88,7 @@ This project is about building an interactive dashboard using Microsoft PowerBI 
 TBC
 
 ##### Achievements
-Certificate of Program Completion with Distinction in RISE Business and Data Analytics Program <br>
+[Certificate of Program Completion with Distinction in RISE Business and Data Analytics Program](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/QUEK%20WEICONG%20EVAN.pdf) <br>
 
 [BCG RISE Distinction Churn Prediction Project](https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7?source=linked_in_profile) <br>
 
