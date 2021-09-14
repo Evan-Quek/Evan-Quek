@@ -4,7 +4,7 @@
 <!-- Add your details -->
 ✉️: evanquek.wc@gmail.com
 &nbsp;&nbsp; 📲 +65 9170-4688
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/evan-quek-0201a556/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/evan-quek/) 
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
