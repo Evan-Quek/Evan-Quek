@@ -85,11 +85,9 @@ This project is about building an interactive dashboard using Microsoft PowerBI 
 ## FEATURED
 <!-- Add your details -->
 ##### Certifications
-TBC
-
-##### Achievements
 [Certificate of Program Completion with Distinction in RISE Business and Data Analytics Program](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/QUEK%20WEICONG%20EVAN.pdf) <br>
 
+##### Achievements
 [BCG RISE Capstone Distinction (Business and Data Analytics)](https://www.credly.com/badges/d4cc25d9-08ed-4cd4-84ae-aca4594c7fb3) <br>
 
 [BCG RISE Distinction Hackathon Project](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1?source=linked_in_profile) <br>
