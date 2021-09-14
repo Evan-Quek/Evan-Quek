@@ -90,11 +90,15 @@ TBC
 ##### Achievements
 [Certificate of Program Completion with Distinction in RISE Business and Data Analytics Program](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/QUEK%20WEICONG%20EVAN.pdf) <br>
 
+[BCG RISE Capstone Distinction (Business and Data Analytics)](https://www.credly.com/badges/d4cc25d9-08ed-4cd4-84ae-aca4594c7fb3) <br>
+
+[BCG RISE Distinction Hackathon Project](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1?source=linked_in_profile) <br>
+
 [BCG RISE Distinction Churn Prediction Project](https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7?source=linked_in_profile) <br>
 
 [BCG RISE TOP2 PowerBI Project](https://www.credly.com/badges/f1462f2f-5c8e-45f9-a18d-471f9168d022?source=linked_in_profile) <br>
 
-[BCG RISE Distinction Hackathon Project](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1?source=linked_in_profile) <br>
+
 
 
 <!-- FEATURED Section Ends -->
