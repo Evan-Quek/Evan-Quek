@@ -70,7 +70,7 @@ I combine a deep background in **data analytics and machine learning** with a pa
 | ☁️ **AWS Certified AI Practitioner** | Amazon Web Services | Oct 2025 · Expires Oct 2028 | [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/7025a974974a41d0a5e2d5043f46bafd) |
 | 🤖 **LLM Application Developer Programme** | AI Singapore | Feb 2026 · ID: 893 | [Verify Credential](https://certificates.aisingapore.org/certificate-verification/12CEAFCD5-12CEAD8ED-1277E972C/) |
 | 🎓 **CS50x — Introduction to Computer Science** | Harvard University (edX) | Sep 2024 | [View Certificate](https://certificates.cs50.io/20343fdd-7ea6-42a2-a4ce-b6ef0bed6a36.pdf?size=letter) |
-| 🌍 **Volunteer World Certificate** | Volunteer World | Aug 2025 | [View Certificate](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/volunteer-world-cert.pdf) |
+| 🌍 **Volunteer World Certificate** | Volunteer World | Aug 2025 | [View Certificate](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/volunteer-world-cert.png) |
 | 🥇 **BCG RISE Certificate of Completion — Distinction** | BCG RISE | — | [View Certificate](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/QUEK%20WEICONG%20EVAN.pdf) |
 | 🏅 **BCG RISE Capstone — Distinction** | BCG RISE | — | [View Badge](https://www.credly.com/badges/d4cc25d9-08ed-4cd4-84ae-aca4594c7fb3) |
 | 🏅 **BCG RISE Hackathon — Distinction** | BCG RISE | — | [View Badge](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1) |
