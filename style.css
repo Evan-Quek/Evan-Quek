@@ -1265,3 +1265,42 @@ footer p {
 @media (max-width: 640px) {
   .vid-grid { grid-template-columns: 1fr; }
 }
+
+/* ===================================================
+   ACHIEVEMENT SECTION ADDITIONS
+   =================================================== */
+
+/* Group title headings inside achievements */
+.ach-group-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 1.5rem;
+}
+
+.ach-group-title svg {
+  flex-shrink: 0;
+  color: var(--accent);
+}
+
+/* Issuer label above the cert title */
+.ach-issuer {
+  display: block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.35rem;
+}
+
+/* New icon colour variants */
+.achievement-icon.aws   { background: rgba(255,153,0,0.12); color: #FF9900; }
+.achievement-icon.aisg  { background: rgba(220,50,50,0.12); color: #DC3232; }
+.achievement-icon.harvard { background: rgba(165,28,48,0.12); color: #A51C30; }
+.achievement-icon.vw    { background: rgba(76,175,80,0.12); color: #4CAF50; }
