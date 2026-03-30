@@ -4,6 +4,8 @@
 
 # Hi, I'm Evan Quek 👋
 
+### 🌐 [evan-quek.github.io/Evan-Quek](https://evan-quek.github.io/Evan-Quek/)
+
 ### Founder & CEO · [HireSync](https://hiresync.co) · Singapore 🇸🇬
 
 **AI-Powered Resume Intelligence for Modern Recruiting**
