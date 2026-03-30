@@ -50,7 +50,7 @@ window.addEventListener('scroll', () => {
 
 // ---- Scroll-triggered fade-up animations ----
 const fadeElements = document.querySelectorAll(
-  '.skill-card, .project-card, .achievement-card, .contact-card, .about-grid, .hero-text'
+  '.skill-card, .project-card, .achievement-card, .contact-card, .about-grid, .hero-text, .hs-hero-card, .hs-feature-card, .hs-timeline-item'
 );
 
 fadeElements.forEach(el => el.classList.add('fade-up'));
