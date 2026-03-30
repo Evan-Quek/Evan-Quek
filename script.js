@@ -73,6 +73,33 @@ const observer = new IntersectionObserver(
 
 fadeElements.forEach(el => observer.observe(el));
 
+// ---- Video play buttons & lightbox ----
+const lightbox = document.getElementById('vidLightbox');
+const lightboxPlayer = document.getElementById('vidLightboxPlayer');
+const lightboxClose = document.getElementById('vidLightboxClose');
+
+document.querySelectorAll('.vid-play-btn').forEach(btn => {
+  btn.addEventListener('click', () => {
+    const wrap = btn.closest('.vid-wrap');
+    const previewVid = wrap.querySelector('.vid-preview');
+    const src = previewVid ? previewVid.querySelector('source').src : '';
+    if (!src) return;
+    lightboxPlayer.src = src;
+    lightbox.classList.add('open');
+    lightboxPlayer.play();
+  });
+});
+
+lightboxClose.addEventListener('click', closeLightbox);
+lightbox.addEventListener('click', (e) => { if (e.target === lightbox) closeLightbox(); });
+document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeLightbox(); });
+
+function closeLightbox() {
+  lightbox.classList.remove('open');
+  lightboxPlayer.pause();
+  lightboxPlayer.src = '';
+}
+
 // ---- Smooth scroll for anchor links ----
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener('click', function (e) {
