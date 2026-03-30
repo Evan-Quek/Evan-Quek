@@ -21,7 +21,7 @@
 
 I'm the **Founder and CEO of [HireSync](https://hiresync.co)** — an AI-powered resume intelligence platform that helps companies instantly score and rank up to **300 resumes per batch** with transparent reasoning grounded in company context.
 
-HireSync was born in 2024 from a real frustration: screening 500+ resumes for a single critical role was taking weeks, and existing ATS tools focused on workflow management — not intelligence. We built the tool we wished existed.
+Existing ATS tools focused on workflow management — not intelligence. We built the agentic tool we wished existed.
 
 I combine a deep background in **data analytics and machine learning** with a passion for building products that make a real difference. My mission is to empower every company with AI-driven recruitment intelligence that eliminates bias, accelerates decisions, and surfaces the best talent — faster.
 
