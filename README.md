@@ -53,51 +53,27 @@ I combine a deep background in **data analytics and machine learning** with a pa
 
 ---
 
-## 📂 Featured Projects
+## 🎓 Education
 
-### 🔬 [COT LLM Analysis Tool](https://github.com/Evan-Quek/COT_LLM_tool) — Harvard Final Project
-> Python · Flask · RAG · LLM
-
-Automates extraction, analysis, and visualisation of **CFTC Commitment of Traders (COT) reports**. Provides futures traders with actionable intelligence through trend identification, sentiment analysis, and momentum indicators — powered by a Retrieval-Augmented Generation (RAG) model.
-
----
-
-### 🚢 Port Congestion — Vessel Delay Prediction
-> Python · Random Forest · Classification
-
-![Port Congestion Classification](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Panamax_rf.PNG)
-
-Applied a **Random Forest classifier** to predict vessels likely to experience dwell time delays at port — enabling proactive resource planning to reduce congestion and improve turnaround time. · [View Code](https://github.com/Evan-Quek/Evan-Quek/blob/main/codes/Tenith_working.ipynb)
+| Institution | Qualification | Period | Grade |
+|---|---|---|---|
+| 🏛️ **London Metropolitan University** | Master of Science — Data Analytics | Oct 2023 – Oct 2024 | **81.78% — Distinction** |
 
 ---
 
-### 📦 Port Congestion — Container Volume Forecasting
-> Python · Lasso Regression · Time Series
+## 🏆 Licences, Certifications & Achievements
 
-![TEU Regression](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/teu_regression.PNG)
-
-Built a **Lasso regression model** to forecast incoming container volumes (TEUs) weekly. Shortfalls vs predictions signal upcoming congestion, enabling pre-emptive operational decisions. · [View Code](https://github.com/Evan-Quek/Evan-Quek/blob/main/codes/Tenith_working.ipynb)
-
----
-
-### 📊 PowerBI Machine Performance Dashboard
-> PowerBI · KPI · Dashboard
-
-![PowerBI Dashboard](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/dsahboard.PNG)
-
-Designed an **interactive PowerBI dashboard** for a car seat manufacturer to monitor production KPIs in real time — tracking machine utilisation, actual vs. theoretical capacity, and downtime.
-
----
-
-## 🏆 Certifications & Achievements
-
-| Award | Link |
-|---|---|
-| 🥇 BCG RISE Certificate of Completion — **Distinction** | [View Certificate](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/QUEK%20WEICONG%20EVAN.pdf) |
-| 🏅 BCG RISE Capstone — **Distinction** | [View Badge](https://www.credly.com/badges/d4cc25d9-08ed-4cd4-84ae-aca4594c7fb3) |
-| 🏅 BCG RISE Hackathon — **Distinction** | [View Badge](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1) |
-| 🏅 BCG RISE Churn Prediction — **Distinction** | [View Badge](https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7) |
-| 🥈 BCG RISE PowerBI Project — **Top 2** | [View Badge](https://www.credly.com/badges/f1462f2f-5c8e-45f9-a18d-471f9168d022) |
+| Award | Issuer | Date | Link |
+|---|---|---|---|
+| ☁️ **AWS Certified AI Practitioner** | Amazon Web Services | Oct 2025 · Expires Oct 2028 | [Verify Credential](https://cp.certmetrics.com/amazon/en/public/verify/credential/7025a974974a41d0a5e2d5043f46bafd) |
+| 🤖 **LLM Application Developer Programme** | AI Singapore | Feb 2026 · ID: 893 | [Verify Credential](https://certificates.aisingapore.org/certificate-verification/) |
+| 🎓 **CS50x — Introduction to Computer Science** | Harvard University (edX) | Sep 2024 | [View Certificate](https://certificates.cs50.io/) |
+| 🌍 **Volunteer World Certificate** | Volunteer World | Aug 2025 | — |
+| 🥇 **BCG RISE Certificate of Completion — Distinction** | BCG RISE | — | [View Certificate](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/QUEK%20WEICONG%20EVAN.pdf) |
+| 🏅 **BCG RISE Capstone — Distinction** | BCG RISE | — | [View Badge](https://www.credly.com/badges/d4cc25d9-08ed-4cd4-84ae-aca4594c7fb3) |
+| 🏅 **BCG RISE Hackathon — Distinction** | BCG RISE | — | [View Badge](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1) |
+| 🏅 **BCG RISE Churn Prediction — Distinction** | BCG RISE | — | [View Badge](https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7) |
+| 🥈 **BCG RISE PowerBI Project — Top 2** | BCG RISE | — | [View Badge](https://www.credly.com/badges/f1462f2f-5c8e-45f9-a18d-471f9168d022) |
 
 ---
 
