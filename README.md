@@ -1,108 +1,116 @@
-<!-- CONTACT Section Starts -->
-### CONTACT
+<div align="center">
 
-<!-- Add your details -->
-✉️: evanquek.wc@gmail.com
-&nbsp;&nbsp; 📲 +65 9170-4688
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/evan-quek/) 
-<!-- CONTACT Section Ends -->
+<img src="https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Gradto_resized.png" width="160" style="border-radius: 50%;" alt="Evan Quek" />
 
-<!-- ABOUT Section Starts -->
-### ABOUT
-<!-- Add link to your picture -->
+# Hi, I'm Evan Quek 👋
 
-![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Gradto_resized.png)
+### Founder & CEO · [HireSync](https://hiresync.co) · Singapore 🇸🇬
 
-<!-- Add your details -->
+**AI-Powered Resume Intelligence for Modern Recruiting**
 
-I am Evan Quek, a technical analyst trader with ~5 years of progressive experience in futures markets. I am involved in trading system development, analysis of trading results, and actual trade execution in PATS and CQG platforms.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-evan--quek-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evan-quek/)
+[![HireSync](https://img.shields.io/badge/HireSync-hiresync.co-6C63FF?style=flat&logo=rocket&logoColor=white)](https://hiresync.co)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-e94560?style=flat&logo=githubpages&logoColor=white)](https://evan-quek.github.io/Evan-Quek/)
+[![Email](https://img.shields.io/badge/Email-evanquek.wc%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:evanquek.wc@gmail.com)
 
-I am fresh out from BCG RISE Business and Data Analytics program. The course ignited my internal passion for python coding and I am looking to bring forward this new skill for the greater good, with unconditional biasness to wildlife conservations. 
+</div>
 
+---
 
-<!-- Add link to the sections -->
-[Experience](#experience) <br>
-[Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
+## 🚀 About Me
 
-<!-- ABOUT Section Ends -->
+I'm the **Founder and CEO of [HireSync](https://hiresync.co)** — an AI-powered resume intelligence platform that helps companies instantly score and rank up to **300 resumes per batch** with transparent reasoning grounded in company context.
 
-<!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
-<!-- Add your details -->
-##### Self-Employed
-FUTURES TRADER<br>
-Jan -2016 to Present:
+HireSync was born in 2024 from a real frustration: screening 500+ resumes for a single critical role was taking weeks, and existing ATS tools focused on workflow management — not intelligence. We built the tool we wished existed.
 
-ROLE: Futures Trader
+I combine a deep background in **data analytics and machine learning** with a passion for building products that make a real difference. My mission is to empower every company with AI-driven recruitment intelligence that eliminates bias, accelerates decisions, and surfaces the best talent — faster.
 
-Develop trading systems and data governance to track trading results.
-Continuous development of the trading system to adapt to changing environment.
+---
 
-<!-- EXPERIENCE Section Ends -->
+## 🏢 HireSync
 
-<!-- EDUCATION Section Starts -->
-### EDUCATION
-<!-- Add your details -->
-##### Temasek Polytechnic
-Diploma in Marketing 2005 - 2008
+> *AI Resume Intelligence for Modern Recruiting* · [hiresync.co](https://hiresync.co)
 
-<!-- EDUCATION Section Ends -->
+| Feature | Description |
+|---|---|
+| 🗂️ **Bulk Resume Matching** | Upload up to 300 resumes — AI scores each against your role + company context |
+| ⚖️ **AI Resume Comparator** | Side-by-side 1:1 breakdown with strengths, gaps, and interview questions |
+| 🤖 **HireSync Copilot** | Conversational AI assistant — ask anything about your candidates |
 
-<!-- PROJECTS Section Starts -->
-### PROJECTS
-<!-- Add your details -->
+**Timeline:** Ideated 2024 → Built 2025 → Launched 2026
 
-[Classification based project](#classification-based-project) <br>
-[Time-Based Regression project](#time-based-regression-project) <br>
-[PowerBI Dashboard](#powerbi-dashboard) <br>
+---
 
-<!-- Add your details -->
+## 🛠️ Tech Stack
 
-#### Classification based project
-![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Panamax_rf.PNG)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM%20%26%20RAG-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
-In this project, a port operator is facing port congestion due to lack of visibility of incoming vessels' dwell time. Random Forest classifier was applied to predict vessels which are more likely to have delays in dwelling to assist client in resource planning for better port performance, thus reducing port congestions by improving vessels turnaround time.
+---
 
-[Click here to view codebase](https://github.com/Evan-Quek/Evan-Quek/blob/main/codes/Tenith_working.ipynb)
+## 📂 Featured Projects
 
-#### Time-Based Regression project
-![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/teu_regression.PNG)
+### 🔬 [COT LLM Analysis Tool](https://github.com/Evan-Quek/COT_LLM_tool) — Harvard Final Project
+> Python · Flask · RAG · LLM
 
-In order to further enhance the visibility to ease port congestion, a Lasso regression model was used to predict incoming containers. If the number of containers fall short of the predicted value, it will cause congestions on the following week when the delayed containers reaches the port. Pre-emptive measures such as allocating more cranes and manpower can be done if such situation develops.
+Automates extraction, analysis, and visualisation of **CFTC Commitment of Traders (COT) reports**. Provides futures traders with actionable intelligence through trend identification, sentiment analysis, and momentum indicators — powered by a Retrieval-Augmented Generation (RAG) model.
 
-[Click here to view codebase](https://github.com/Evan-Quek/Evan-Quek/blob/main/codes/Tenith_working.ipynb)
+---
 
-#### PowerBI Dashboard
-![alt text](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/dsahboard.PNG)
+### 🚢 Port Congestion — Vessel Delay Prediction
+> Python · Random Forest · Classification
 
-This project is about building an interactive dashboard using Microsoft PowerBI for a car seat manufacturer to keep track of their KPIs.
+![Port Congestion Classification](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/Panamax_rf.PNG)
 
-<!-- PROJECTS Section Ends -->
+Applied a **Random Forest classifier** to predict vessels likely to experience dwell time delays at port — enabling proactive resource planning to reduce congestion and improve turnaround time. · [View Code](https://github.com/Evan-Quek/Evan-Quek/blob/main/codes/Tenith_working.ipynb)
 
-<!-- FEATURED Section Starts -->
-## FEATURED
-<!-- Add your details -->
-##### Certifications
-[Certificate of Program Completion with Distinction in RISE Business and Data Analytics Program](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/QUEK%20WEICONG%20EVAN.pdf) <br>
+---
 
-##### Achievements
-[BCG RISE Capstone Distinction (Business and Data Analytics)](https://www.credly.com/badges/d4cc25d9-08ed-4cd4-84ae-aca4594c7fb3) <br>
+### 📦 Port Congestion — Container Volume Forecasting
+> Python · Lasso Regression · Time Series
 
-[BCG RISE Distinction Hackathon Project](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1?source=linked_in_profile) <br>
+![TEU Regression](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/teu_regression.PNG)
 
-[BCG RISE Distinction Churn Prediction Project](https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7?source=linked_in_profile) <br>
+Built a **Lasso regression model** to forecast incoming container volumes (TEUs) weekly. Shortfalls vs predictions signal upcoming congestion, enabling pre-emptive operational decisions. · [View Code](https://github.com/Evan-Quek/Evan-Quek/blob/main/codes/Tenith_working.ipynb)
 
-[BCG RISE TOP2 PowerBI Project](https://www.credly.com/badges/f1462f2f-5c8e-45f9-a18d-471f9168d022?source=linked_in_profile) <br>
+---
 
+### 📊 PowerBI Machine Performance Dashboard
+> PowerBI · KPI · Dashboard
 
+![PowerBI Dashboard](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/dsahboard.PNG)
 
+Designed an **interactive PowerBI dashboard** for a car seat manufacturer to monitor production KPIs in real time — tracking machine utilisation, actual vs. theoretical capacity, and downtime.
 
-<!-- FEATURED Section Ends -->
+---
 
+## 🏆 Certifications & Achievements
 
-<!---
-Evan-Quek/Evan-Quek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| Award | Link |
+|---|---|
+| 🥇 BCG RISE Certificate of Completion — **Distinction** | [View Certificate](https://raw.githubusercontent.com/Evan-Quek/Evan-Quek/main/images/QUEK%20WEICONG%20EVAN.pdf) |
+| 🏅 BCG RISE Capstone — **Distinction** | [View Badge](https://www.credly.com/badges/d4cc25d9-08ed-4cd4-84ae-aca4594c7fb3) |
+| 🏅 BCG RISE Hackathon — **Distinction** | [View Badge](https://www.credly.com/badges/b9fcae87-3f40-4ce8-bde5-ba9c5ec365f1) |
+| 🏅 BCG RISE Churn Prediction — **Distinction** | [View Badge](https://www.credly.com/badges/1694e8ef-b1a9-420e-8d0d-e606e23ca1e7) |
+| 🥈 BCG RISE PowerBI Project — **Top 2** | [View Badge](https://www.credly.com/badges/f1462f2f-5c8e-45f9-a18d-471f9168d022) |
+
+---
+
+## 📬 Get In Touch
+
+- 🌐 **Website:** [hiresync.co](https://hiresync.co)
+- 💼 **Portfolio:** [evan-quek.github.io/Evan-Quek](https://evan-quek.github.io/Evan-Quek/)
+- 📧 **Email:** [evanquek.wc@gmail.com](mailto:evanquek.wc@gmail.com)
+- 📲 **Phone:** +65 9170-4688
+- 🔗 **LinkedIn:** [linkedin.com/in/evan-quek](https://www.linkedin.com/in/evan-quek/)
+
+---
+
+<div align="center">
+  <sub>© 2026 Evan Quek · Founder of <a href="https://hiresync.co">HireSync</a> · Singapore</sub>
+</div>
